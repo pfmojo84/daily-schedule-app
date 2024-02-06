@@ -8,7 +8,7 @@ function displayDate() {
 //define currentHour using dayjs
 dayjs().hour()
 let currentHour = dayjs().hour();
-console.log(currentHour);
+//console.log(currentHour);
 
 
 //To Do - create conditional statement to check each div and to see if static time is >('past'), = ('present'), or <('future')
