@@ -16,5 +16,5 @@ Overview of project plan:<p>
   - Update selectors to reflect any changes in class/ids 
   - Utilize Bootstrap for inline formatting 
 
-![LandingPage] (daily-schedule-app/Screenshots/Screenshot 2024-02-06 at 5.07.39 PM.png)
-![LocalStorageFunction] (daily-schedule-app/Screenshots/Screenshot 2024-02-06 at 5.09.02 PM.png)
+![Landpage](<Screenshots/Screenshot 2024-02-06 at 5.07.39 PM.png>)
+![Localstorage](<Screenshots/Screenshot 2024-02-06 at 5.09.02 PM.png>)
